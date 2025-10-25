@@ -1,0 +1,11 @@
+{
+    "user-tLTy7k": {
+        "valid_until": "2026.04.10",
+        "born-date": "1977.02.11",
+        "name": "John Doe",
+        "age": 48,
+        "country": "HU",
+        "worker": true,
+        "other": []
+    }
+}

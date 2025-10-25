@@ -1,0 +1,47 @@
+{
+    "user-asTJMM": {
+        "valid_until": "2026.02.26",
+        "born-date": "1940.12.11",
+        "name": "Bob Brown",
+        "age": 85,
+        "country": "USA",
+        "worker": false,
+        "other": []
+    },
+    "user-1kaAl0": {
+        "valid_until": "2026.06.09",
+        "born-date": "1957.05.26",
+        "name": "Charlie Davis",
+        "age": 68,
+        "country": "EU",
+        "worker": false,
+        "other": []
+    },
+    "user-afuK35": {
+        "valid_until": "2026.09.30",
+        "born-date": "1978.08.01",
+        "name": "Bob Brown",
+        "age": 47,
+        "country": "SP",
+        "worker": false,
+        "other": []
+    },
+    "user-Jf10fl": {
+        "valid_until": "2025.10.30",
+        "born-date": "1977.01.15",
+        "name": "Charlie Davis",
+        "age": 48,
+        "country": "EU",
+        "worker": false,
+        "other": []
+    },
+    "user-IBFx3q": {
+        "valid_until": "2026.02.03",
+        "born-date": "1975.02.17",
+        "name": "Emily Clark",
+        "age": 50,
+        "country": "USA",
+        "worker": false,
+        "other": []
+    }
+}

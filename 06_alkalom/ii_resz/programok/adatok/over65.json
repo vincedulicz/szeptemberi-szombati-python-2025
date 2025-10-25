@@ -1,0 +1,56 @@
+{
+    "user-IzHBlP": {
+        "valid_until": "2026.07.01",
+        "born-date": "1920.02.18",
+        "name": "Alice Johnson",
+        "age": 105,
+        "country": "EU",
+        "worker": true,
+        "other": []
+    },
+    "user-asTJMM": {
+        "valid_until": "2026.02.26",
+        "born-date": "1940.12.11",
+        "name": "Bob Brown",
+        "age": 85,
+        "country": "USA",
+        "worker": false,
+        "other": []
+    },
+    "user-1kaAl0": {
+        "valid_until": "2026.06.09",
+        "born-date": "1957.05.26",
+        "name": "Charlie Davis",
+        "age": 68,
+        "country": "EU",
+        "worker": false,
+        "other": []
+    },
+    "user-BINg63": {
+        "valid_until": "2026.02.22",
+        "born-date": "1928.04.13",
+        "name": "Bob Brown",
+        "age": 97,
+        "country": "USA",
+        "worker": true,
+        "other": []
+    },
+    "user-IGA6GH": {
+        "valid_until": "2025.11.14",
+        "born-date": "1940.12.26",
+        "name": "Jane Smith",
+        "age": 85,
+        "country": "SP",
+        "worker": true,
+        "other": []
+    },
+    "user-totSFv": {
+        "valid_until": "2026.03.07",
+        "born-date": "1949.04.26",
+        "name": "John Doe",
+        "age": 76,
+        "country": "USA",
+        "worker": true,
+        "other": []
+    }
+}
