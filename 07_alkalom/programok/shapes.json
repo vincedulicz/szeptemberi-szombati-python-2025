@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Rectangle",
+        "name": "Tégla1",
+        "area": 12,
+        "width": 3,
+        "height": 4
+    },
+    {
+        "type": "Rectangle",
+        "name": "Tégla2",
+        "area": 30,
+        "width": 5,
+        "height": 6
+    },
+    {
+        "type": "Square",
+        "name": "Négyzet1",
+        "area": 25,
+        "width": 5,
+        "height": 5
+    },
+    {
+        "type": "Circle",
+        "name": "Kör1",
+        "area": 28.274333882308138,
+        "radius": 3
+    }
+]
