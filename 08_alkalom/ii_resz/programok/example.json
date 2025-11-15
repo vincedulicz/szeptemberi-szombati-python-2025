@@ -1,0 +1,26 @@
+[
+    {
+        "nev": "Teszt Elek",
+        "kor": 30,
+        "cim": "Teszt UTca1",
+        "iranyitoszam": 1234
+    },
+    {
+        "nev": "Teszt Elek2",
+        "kor": 33,
+        "cim": "Teszt UTca2",
+        "iranyitoszam": 1235
+    },
+    {
+        "nev": "Teszt Elek3",
+        "kor": 37,
+        "cim": "Teszt UTca3",
+        "iranyitoszam": 1236
+    },
+    {
+        "nev": "Teszt Elek4",
+        "kor": 39,
+        "cim": "Teszt UTca4",
+        "iranyitoszam": 1236
+    }
+]
