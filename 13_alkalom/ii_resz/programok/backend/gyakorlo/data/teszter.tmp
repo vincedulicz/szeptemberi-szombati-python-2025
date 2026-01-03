@@ -1,0 +1,6 @@
+ICStudio UMC180 tervezőprogram segítségével és annak tesztelése, valamint az idődiagramm
+a jeleknél ezek a tulajdonnságok rendre a következők [ns]:
+kapják az FI – t a második latchben pedik a pMosok ezzel azt érjük el, hogy egyszerre nem
+oszlop nyit a második zár . Ekkor a beírás valósul meg, mivel a beérkező D jelet az első latch
+harmadik nyit , ekkor az utolsó bit- nyi adatot tárolja a szerkezetünk . Úgy hogy a második latch
+utolsóként beérkezett jelet tartja a kimeneten.
